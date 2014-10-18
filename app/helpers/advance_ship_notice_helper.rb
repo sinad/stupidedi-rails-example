@@ -1,0 +1,2 @@
+module AdvanceShipNoticeHelper
+end
