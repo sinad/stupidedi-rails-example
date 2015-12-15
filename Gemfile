@@ -42,4 +42,4 @@ end
 # Use debugger
 # gem 'debugger', group: [:development, :test]
 
-gem 'stupidedi', '=1.2.2ds'
+gem 'stupidedi', github: 'skaczor/stupidedi'
